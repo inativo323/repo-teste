@@ -1,5 +1,5 @@
 function returnTrue() {
-    //code aqui
+    return true
 }
 
 console.log(returnTrue());
