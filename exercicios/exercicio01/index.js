@@ -1,5 +1,5 @@
 function returnTrue() {
-    return true
+    return true;
 }
 
 console.log(returnTrue());
